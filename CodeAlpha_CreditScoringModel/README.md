@@ -285,9 +285,6 @@ CodeAlpha_CreditScoringModel/
 │   ├── credit_scoring_model.ipynb
 │   └── credit_scoring_prediction.csv
 │
-├── requirements/
-│   └── requirements
-
 ├── src/
 │   ├── convert_xls_to_csv.py
 │   ├── evaluate.py
@@ -295,6 +292,7 @@ CodeAlpha_CreditScoringModel/
 │   ├── preprocessing.py
 │   └── train.py
 │
+├── requirements.txt
 ├── app.py
 └── README.md
 ```
